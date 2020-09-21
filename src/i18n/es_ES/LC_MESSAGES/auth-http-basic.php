@@ -55,8 +55,8 @@ PO-Revision-Date: 2020-06-01 11:10 -0400
   0 =>
   [
     'Revision' => 0,
-    'Total-Strings' => 10,
-    'Table-Size' => 10,
+    'Total-Strings' => 20,
+    'Table-Size' => 20,
     'Build-Timestamp' => 'Mon, 01 Jun 20 11:00:00 -0400',
     'Format-Version' => 'A',
     'Encoding' => 'UTF-8',
